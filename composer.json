@@ -1,0 +1,9 @@
+{
+  "name": "etdsolutions/select2",
+  "description": "Shim repository for Select2",
+  "license": "MIT",
+  "homepage": "https://select2.github.io/",
+  "require": {
+    "etdsolutions/jquery": "~1.0 || ~2.0"
+  }
+}
