@@ -4,6 +4,6 @@
   "license": "MIT",
   "homepage": "https://select2.github.io/",
   "require": {
-    "etdsolutions/jquery": "~1.0 || ~2.0"
+    "etdsolutions/jquery": ">=1.7.2"
   }
 }
